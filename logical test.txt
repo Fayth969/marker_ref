@@ -1,0 +1,10 @@
+logical operators
+and
+or
+not
+identity 
+is
+is not
+membership operator
+in
+not in
