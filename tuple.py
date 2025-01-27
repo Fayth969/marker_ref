@@ -22,4 +22,4 @@ if 'apple' in fruit_tuple :
 else :
     print(False)
 print(fruit_tuple.count("mango"))
-    
+print(fruit_tuple.index('pineapple'))
